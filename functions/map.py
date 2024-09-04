@@ -1,0 +1,5 @@
+update=lambda name:name.lower()
+# print(type(a))
+print(type(update))
+name=update("ROHI")
+print(name)
