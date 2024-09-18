@@ -1,0 +1,20 @@
+[
+    {
+        "id": 2,
+        "first_name": "Jan",
+        "email": "jcowlard1@printfriendly.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Elysia",
+        "email": "emccumskay3@uiuc.edu",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Olga",
+        "email": "oduchesne9@foxnews.com",
+        "gender": "Female"
+    }
+]
