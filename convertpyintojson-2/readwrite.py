@@ -9,4 +9,4 @@ fp2=open("employes.json",'w')
 json.dump(employes,fp2)
 
 fp1.close()
-fp2.close()
+fp2.close()6

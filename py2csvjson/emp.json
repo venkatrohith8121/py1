@@ -1,0 +1,17 @@
+[
+    {
+        "id": 101,
+        "name": "rahul",
+        "avail": true
+    },
+    {
+        "id": 102,
+        "name": "rohi",
+        "avail": false
+    },
+    {
+        "id": 103,
+        "name": "balu",
+        "avail": true
+    }
+]
